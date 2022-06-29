@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer living and studying in Wariwickshire. I currently work within the automotive industry on specifically embedded software development.
+I'm a Software Engineer living and studying in Warwickshire. I currently work within the automotive industry on specifically embedded software development.
 
 ## Current Technologies I'm Working With...
 
